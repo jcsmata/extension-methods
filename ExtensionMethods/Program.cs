@@ -10,7 +10,7 @@ namespace ExtensionMethods
     {
         static void Main(string[] args)
         {
-
+            // all the calling is done in the test project.
         }
     }
 }
